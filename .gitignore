@@ -1,0 +1,10 @@
+# Ignore IDE stuff
+**/.idea/**
+
+# Ignore Runtime files
+**/build/**
+/build/**
+**/.gradle/**
+
+# Mac OS files
+.DS_Store
